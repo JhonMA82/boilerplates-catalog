@@ -41,6 +41,7 @@ Este repositorio conserva no solo una lista de enlaces, sino el razonamiento de 
 | Starter interno | Recomendación | **AI Assistant Starter** | Asistentes institucionales con fuentes, herramientas, auditoría y control de costos | Por crear | [Detalle](docs/internal-starters/ai-assistant-starter.md) |
 | Starter interno | Recomendación | **Python Service Starter** | OCR, inferencia, webhooks, documentos e integraciones como servicio aislado | Por crear | [Detalle](docs/internal-starters/python-service-starter.md) |
 <!-- CATALOG_TABLE_END -->
+
 ## Navegación esencial
 
 - [Contexto de la consultoría](docs/strategy/consultancy-context.md)

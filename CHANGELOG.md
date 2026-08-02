@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1] - 2026-08-02
+
+### Corregido
+
+- Se corrigió el formato Markdown de las fichas en `docs/boilerplates/`: se eliminó la sangría superior de 4 espacios que mezclaba tablas, encabezados y listas y que impedía el renderizado correcto en GitHub.
+- Se agregó una línea en blanco tras el bloque del catálogo en `README.md`.
+
 ## [1.0.0] - 2026-08-02
 
 ### Rehecho
