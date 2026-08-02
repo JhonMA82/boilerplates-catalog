@@ -1,0 +1,23 @@
+name: Deprecar entrada
+description: Proponer retiro o migración.
+title: "[Deprecación]: "
+labels: ["catalog", "deprecation"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Entrada
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Motivo
+    validations:
+      required: true
+  - type: textarea
+    id: migration
+    attributes:
+      label: Alternativa y migración
+    validations:
+      required: true

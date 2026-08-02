@@ -1,0 +1,35 @@
+name: Proponer boilerplate
+description: Evaluar una nueva opción.
+title: "[Propuesta]: "
+labels: ["catalog", "proposal"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repositorio oficial
+    validations:
+      required: true
+  - type: textarea
+    id: gap
+    attributes:
+      label: Brecha que cubre
+    validations:
+      required: true
+  - type: textarea
+    id: cases
+    attributes:
+      label: Casos de uso
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas comparadas
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Riesgos y curación
+    validations:
+      required: true
