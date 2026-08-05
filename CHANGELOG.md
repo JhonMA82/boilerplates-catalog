@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0] - 2026-08-05
+
+### Agregado
+
+- Se incorporó el skill de OpenCode `github-readme` en `.opencode/skills/github-readme/` para redactar y mejorar README de GitHub en español, con foco en boilerplates y starters públicos.
+- Se actualizó el README con la sección de skills y la estructura del repositorio.
+
 ## [1.1.0] - 2026-08-05
 
 ### Agregado

@@ -2,7 +2,7 @@
 
 Catálogo versionado de bases técnicas para una consultoría enfocada en desarrollo a medida, automatización, IA aplicada y optimización de procesos para gobiernos, escuelas, sindicatos y pymes.
 
-> **Versión:** 1.1.0 · **Revisión:** 2026-08-05
+> **Versión:** 1.2.0 · **Revisión:** 2026-08-05
 
 Este repositorio conserva no solo una lista de enlaces, sino el razonamiento de selección: casos de uso, límites, comparaciones, riesgos, madurez, curación, AI-friendly, despliegue y relación entre opciones.
 
@@ -73,6 +73,10 @@ n8n, Activepieces, Directus, Appsmith, Metabase, Dify, RAGFlow, Docling, MinIO y
 
 [Ver índice de plataformas complementarias](docs/platforms/README.md)
 
+## Skills de OpenCode
+
+- [github-readme](.opencode/skills/github-readme/SKILL.md) — redacta y mejora README de GitHub en español, con foco en boilerplates y starters públicos.
+
 ## Mantenimiento
 
 ```bash
@@ -98,7 +102,9 @@ GitHub Actions ejecuta la validación en push y pull request.
 │   └── platforms/
 ├── templates/
 ├── scripts/
-└── .github/
+├── .github/
+└── .opencode/
+    └── skills/
 ```
 
 ## Alcance
