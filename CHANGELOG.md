@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0] - 2026-08-05
+
+### Agregado
+
+- Se incorporó React Starter Kit (kriasoft) como opción full-stack TypeScript para SaaS comercial con despliegue en el edge de Cloudflare, propuesta por el usuario.
+- Ficha completa en `docs/boilerplates/react-starter-kit.md`.
+- Comparación directa con Open SaaS en `docs/comparisons/open-saas-vs-react-starter-kit.md`.
+- Se actualizaron el mapa del catálogo, el árbol de decisión, el mapa de cobertura y el README.
+
 ## [1.0.1] - 2026-08-02
 
 ### Corregido

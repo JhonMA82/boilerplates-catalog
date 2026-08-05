@@ -15,6 +15,8 @@ Este archivo existe para impedir que una futura síntesis reduzca el catálogo a
 | FastAPI para API-first | [FastAPI Template](../boilerplates/full-stack-fastapi-template.md) |
 | SpeedPy no sustituido por FastAPI | [Comparación](../comparisons/speedpy-vs-fastapi.md) |
 | Open SaaS para producto comercial | [Open SaaS](../boilerplates/open-saas.md) |
+| React Starter Kit para SaaS TypeScript en edge | [React Starter Kit](../boilerplates/react-starter-kit.md) |
+| Open SaaS vs. React Starter Kit | [Comparación](../comparisons/open-saas-vs-react-starter-kit.md) |
 | Multi-tenancy no debe asumirse | [Open SaaS vs. Admin](../comparisons/open-saas-vs-admin.md) |
 | Vercel Chatbot como base, no producto final | [Vercel Chatbot](../boilerplates/vercel-chatbot.md) |
 | Starter propio de asistente | [AI Assistant Starter](../internal-starters/ai-assistant-starter.md) |

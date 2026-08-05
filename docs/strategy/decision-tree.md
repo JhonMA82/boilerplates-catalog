@@ -44,7 +44,8 @@ Usar **Python Service Starter**.
 
 ### ¿Se requiere auth, pagos, jobs, correo y archivos desde el inicio?
 
-Evaluar **Open SaaS** mediante piloto.
+- Hosting convencional y aceptar Wasp: evaluar **Open SaaS** mediante piloto.
+- Stack TypeScript puro y aceptar edge de Cloudflare: **React Starter Kit**.
 
 ## 5. IA
 

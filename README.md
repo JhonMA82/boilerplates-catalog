@@ -2,7 +2,7 @@
 
 Catálogo versionado de bases técnicas para una consultoría enfocada en desarrollo a medida, automatización, IA aplicada y optimización de procesos para gobiernos, escuelas, sindicatos y pymes.
 
-> **Versión:** 1.0.0 · **Revisión:** 2026-08-02
+> **Versión:** 1.1.0 · **Revisión:** 2026-08-05
 
 Este repositorio conserva no solo una lista de enlaces, sino el razonamiento de selección: casos de uso, límites, comparaciones, riesgos, madurez, curación, AI-friendly, despliegue y relación entre opciones.
 
@@ -32,6 +32,7 @@ Este repositorio conserva no solo una lista de enlaces, sino el razonamiento de 
 | Seleccionado | Usuario | **SpeedPy** | Datos, documentos, formularios y procesos administrativos con Python | [Repositorio](https://github.com/speedpy/speedpy) | [Detalle](docs/boilerplates/speedpy.md) |
 | Recomendado | Recomendación | **Full Stack FastAPI Template** | Aplicaciones API-first con backend Python, frontend React y varios clientes | [Repositorio](https://github.com/fastapi/full-stack-fastapi-template) | [Detalle](docs/boilerplates/full-stack-fastapi-template.md) |
 | Piloto recomendado | Recomendación | **Open SaaS** | Productos SaaS comerciales con auth, billing, jobs, correo y archivos | [Repositorio](https://github.com/wasp-lang/open-saas) | [Detalle](docs/boilerplates/open-saas.md) |
+| Seleccionado | Usuario | **React Starter Kit** | Productos SaaS full-stack TypeScript con despliegue en el edge de Cloudflare | [Repositorio](https://github.com/kriasoft/react-starter-kit) | [Detalle](docs/boilerplates/react-starter-kit.md) |
 | Recomendado | Recomendación | **Vercel Chatbot** | Base técnica de un asistente o copiloto de IA personalizado | [Repositorio](https://github.com/vercel/chatbot) | [Detalle](docs/boilerplates/vercel-chatbot.md) |
 | Candidato especializado | Usuario | **GoShip** | Pilotos de turnos, notificaciones, SSE, PWA y webhooks en Go | [Repositorio](https://github.com/leomorpho/goship) | [Detalle](docs/boilerplates/goship.md) |
 | Infraestructura/POC | Recomendación | **Self-hosted AI Starter Kit** | Pruebas de concepto de automatización e IA privada autoalojada | [Repositorio](https://github.com/n8n-io/self-hosted-ai-starter-kit) | [Detalle](docs/boilerplates/self-hosted-ai-starter-kit.md) |
@@ -62,6 +63,7 @@ Este repositorio conserva no solo una lista de enlaces, sino el razonamiento de 
 - [SpeedPy vs. Full Stack FastAPI](docs/comparisons/speedpy-vs-fastapi.md)
 - [SpeedPy vs. GoShip](docs/comparisons/speedpy-vs-goship.md)
 - [Open SaaS vs. dashboards Admin](docs/comparisons/open-saas-vs-admin.md)
+- [Open SaaS vs. React Starter Kit](docs/comparisons/open-saas-vs-react-starter-kit.md)
 - [Tauri vs. PWA vs. Ignite](docs/comparisons/tauri-vs-pwa-vs-ignite.md)
 - [Opciones de IA](docs/comparisons/ai-options.md)
 

@@ -19,7 +19,8 @@ Canales instalables
 └── Tauri UI                          [escritorio]
 
 SaaS comercial
-└── Open SaaS                         [piloto Wasp]
+├── Open SaaS                         [piloto Wasp]
+└── React Starter Kit                 [TypeScript full-stack, edge Cloudflare]
 
 IA
 ├── Vercel Chatbot                    [upstream de UI/producto]

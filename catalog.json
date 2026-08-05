@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "catalog_version": "1.0.0",
-  "review_date": "2026-08-02",
+  "catalog_version": "1.1.0",
+  "review_date": "2026-08-05",
   "consultancy_focus": [
     "desarrollo a medida",
     "automatizaciones",
@@ -116,6 +116,18 @@
       "repository": "https://github.com/wasp-lang/open-saas",
       "details": "docs/boilerplates/open-saas.md",
       "summary": "Boilerplate SaaS sobre Wasp con React, Node.js, Prisma y capacidades comerciales integradas."
+    },
+    {
+      "id": "react-starter-kit",
+      "name": "React Starter Kit",
+      "kind": "external_boilerplate",
+      "origin": "user",
+      "status": "selected",
+      "category": "saas-edge",
+      "default_for": "Productos SaaS full-stack TypeScript con despliegue en el edge de Cloudflare",
+      "repository": "https://github.com/kriasoft/react-starter-kit",
+      "details": "docs/boilerplates/react-starter-kit.md",
+      "summary": "Monorepo React 19 + TanStack Router + tRPC + Cloudflare Workers con auth, organizaciones, Stripe y UI shadcn."
     },
     {
       "id": "vercel-chatbot",
