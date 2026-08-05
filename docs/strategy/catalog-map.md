@@ -1,37 +1,23 @@
 # Mapa del catálogo
 
-```text
-Presencia pública
-└── Stardrive
-
-Aplicaciones operativas web
-├── TanStack Shadcn Admin Dashboard   [default]
-└── Next Shadcn Admin Dashboard       [híbrido público + privado]
-
-Python, datos y documentos
-├── SpeedPy Full
-├── SpeedPy Lite                      [interno]
-├── Full Stack FastAPI Template       [API-first]
-└── Python Service Starter            [servicio aislado]
-
-Canales instalables
-├── Ignite                            [móvil]
-└── Tauri UI                          [escritorio]
-
-SaaS comercial
-├── Open SaaS                         [piloto Wasp]
-└── React Starter Kit                 [TypeScript full-stack, edge Cloudflare]
-
-IA
-├── Vercel Chatbot                    [upstream de UI/producto]
-├── AI Assistant Starter              [interno]
-└── Self-hosted AI Starter Kit        [infraestructura POC]
-
-Institucional
-└── Institutional Operations Starter  [interno, activo estratégico]
-
-Especializado
-└── GoShip                            [turnos, SSE, PWA, webhooks]
+```mermaid
+flowchart TD
+    P[Presencia pública] --> Stardrive[Stardrive]
+    A[Aplicaciones operativas web] --> TanStack[TanStack Shadcn Admin Dashboard<br/>default]
+    A --> Next[Next Shadcn Admin Dashboard<br/>híbrido público + privado]
+    Py[Python, datos y documentos] --> SpeedPyFull[SpeedPy Full]
+    Py --> SpeedPyLite[SpeedPy Lite<br/>interno]
+    Py --> FastAPI[Full Stack FastAPI Template<br/>API-first]
+    Py --> PyService[Python Service Starter<br/>servicio aislado]
+    C[Canales instalables] --> Ignite[Ignite<br/>móvil]
+    C --> Tauri[Tauri UI<br/>escritorio]
+    S[SaaS comercial] --> OpenSaaS[Open SaaS<br/>piloto Wasp]
+    S --> RSK[React Starter Kit<br/>TypeScript full-stack, edge Cloudflare]
+    IA[IA] --> Chatbot[Vercel Chatbot<br/>upstream de UI/producto]
+    IA --> AIAssistant[AI Assistant Starter<br/>interno]
+    IA --> SelfHosted[Self-hosted AI Starter Kit<br/>infraestructura POC]
+    Inst[Institucional] --> IO[Institutional Operations Starter<br/>interno, activo estratégico]
+    Esp[Especializado] --> GoShip[GoShip<br/>turnos, SSE, PWA, webhooks]
 ```
 
 ## Defaults

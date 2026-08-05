@@ -24,6 +24,7 @@ Este template cubre un hueco que SpeedPy no debe forzar: aplicaciones API-first 
 - Docker Compose y configuración de despliegue.
 - Copier para generar proyectos y estructura de skills para agentes.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -74,13 +75,13 @@ Este template cubre un hueco que SpeedPy no debe forzar: aplicaciones API-first 
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Crear perfil full-stack y perfil backend-only.
-- Agregar módulos opcionales de organizaciones, permisos y auditoría.
-- Definir estrategia de tokens, sesiones y revocación.
-- Incluir OpenTelemetry, logging estructurado y métricas.
-- Alinear el frontend con la familia Admin o retirar el frontend demo.
-- Agregar jobs solo cuando sea necesario.
-- Documentar generación de cliente y evitar modelos duplicados.
+- [ ] Crear perfil full-stack y perfil backend-only.
+- [ ] Agregar módulos opcionales de organizaciones, permisos y auditoría.
+- [ ] Definir estrategia de tokens, sesiones y revocación.
+- [ ] Incluir OpenTelemetry, logging estructurado y métricas.
+- [ ] Alinear el frontend con la familia Admin o retirar el frontend demo.
+- [ ] Agregar jobs solo cuando sea necesario.
+- [ ] Documentar generación de cliente y evitar modelos duplicados.
 
 ## Evaluación AI-friendly
 

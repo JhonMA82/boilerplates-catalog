@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.2.3] - 2026-08-05
+
+### Corregido
+
+- Se amplió el skill `github-readme` con los mecanismos oficiales de GitHub (badges shields.io, alerts, Mermaid, emojis, task lists) y el flujo de modificación correcta: leer antes de tocar, consultar antes de eliminar o reestructurar, actualizar documentos vinculados y ejecutar validaciones del repo.
+
+## [1.2.2] - 2026-08-05
+
+### Corregido
+
+- Mejora visual de los documentos para GitHub: badges de CI, estrellas, último commit y versión del catálogo en el README; emojis en encabezados de sección; alerts `[!IMPORTANT]` y `[!NOTE]` en README y fichas; diagramas Mermaid en `catalog-map.md` y `decision-tree.md` (la pregunta final obligatoria pasó a un alert al inicio del árbol); checkboxes en las secciones de curación de las 12 fichas de boilerplates.
+
+## [1.2.1] - 2026-08-05
+
+### Corregido
+
+- Se eliminó la columna `Procedencia` de la tabla del catálogo en el README. La procedencia es metadata del proceso de selección (sigue en `catalog.json` y en la tabla de cada ficha) y no aporta a la decisión de uso; la columna `Estado` se conserva como señal de gobernanza principal.
+
 ## [1.2.0] - 2026-08-05
 
 ### Agregado

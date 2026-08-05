@@ -8,14 +8,6 @@ ROOT = Path(__file__).resolve().parents[1]
 START = "<!-- CATALOG_TABLE_START -->"
 END = "<!-- CATALOG_TABLE_END -->"
 
-def origin_label(o):
-    return {
-        "user": "Usuario",
-        "assistant": "Recomendación",
-        "user_and_recommendation": "Conjunta",
-        "joint_decision": "Conjunta",
-    }.get(o, o)
-
 def status_label(s):
     return {
         "selected": "Seleccionado",
@@ -29,13 +21,13 @@ def status_label(s):
 def main():
     data = json.loads((ROOT / "catalog.json").read_text(encoding="utf-8"))
     rows = [
-        "| Estado | Procedencia | Opción | Uso principal | Upstream | Ficha |",
-        "|---|---|---|---|---|---|",
+        "| Estado | Opción | Uso principal | Upstream | Ficha |",
+        "|---|---|---|---|---|",
     ]
     for e in data["entries"]:
         repo = f"[Repositorio]({e['repository']})" if e.get("repository") else "Por crear"
         rows.append(
-            f"| {status_label(e['status'])} | {origin_label(e['origin'])} | "
+            f"| {status_label(e['status'])} | "
             f"**{e['name']}** | {e['default_for']} | {repo} | [Detalle]({e['details']}) |"
         )
     readme_path = ROOT / "README.md"

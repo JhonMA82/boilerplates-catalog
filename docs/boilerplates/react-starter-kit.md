@@ -28,6 +28,7 @@ React Starter Kit es una apuesta full-stack TypeScript distinta de las demás de
 - Asistentes de IA entrenados sobre el propio código y documentación en reactstarter.com.
 - Licencia MIT.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -79,13 +80,13 @@ React Starter Kit es una apuesta full-stack TypeScript distinta de las demás de
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Fijar commit/release y revisar licencia, seguridad y compatibilidad antes de cada proyecto.
-- Diseñar tenant isolation, memberships y auditoría; no asumir que organizaciones lo resuelven.
-- Probar webhooks de Stripe, OAuth y recuperación de cuenta en staging.
-- Definir región de Workers y residencia de datos para clientes institucionales.
-- Preparar i18n, accesibilidad, errores y validaciones en español.
-- Incluir CI, pruebas Vitest y observabilidad para los tres Workers.
-- Documentar costos del edge y una posible salida/migración fuera de Cloudflare.
+- [ ] Fijar commit/release y revisar licencia, seguridad y compatibilidad antes de cada proyecto.
+- [ ] Diseñar tenant isolation, memberships y auditoría; no asumir que organizaciones lo resuelven.
+- [ ] Probar webhooks de Stripe, OAuth y recuperación de cuenta en staging.
+- [ ] Definir región de Workers y residencia de datos para clientes institucionales.
+- [ ] Preparar i18n, accesibilidad, errores y validaciones en español.
+- [ ] Incluir CI, pruebas Vitest y observabilidad para los tres Workers.
+- [ ] Documentar costos del edge y una posible salida/migración fuera de Cloudflare.
 
 ## Evaluación AI-friendly
 

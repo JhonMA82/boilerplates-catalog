@@ -26,6 +26,7 @@ SpeedPy se considera una de las bases más relevantes del catálogo porque mucho
 - Modo Docker con PostgreSQL, Redis y Celery; modo local más ligero.
 - Checklist explícito de preparación para producción y contenido demo por retirar.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -77,13 +78,13 @@ SpeedPy se considera una de las bases más relevantes del catálogo porque mucho
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Crear dos perfiles: Full y Lite.
-- Eliminar de forma automatizada módulos demo, billing y providers no elegidos.
-- Reorganizar proyectos grandes por dominios: organizations, datasets, imports, workflows, reports, documents, audit e integrations.
-- Agregar packs opcionales para pandas, Polars, DuckDB, openpyxl y Docling.
-- Preparar español, accesibilidad y plantillas institucionales.
-- Agregar auditoría y permisos por organización/departamento.
-- Neutralizar despliegue para no depender de Appliku.
+- [ ] Crear dos perfiles: Full y Lite.
+- [ ] Eliminar de forma automatizada módulos demo, billing y providers no elegidos.
+- [ ] Reorganizar proyectos grandes por dominios: organizations, datasets, imports, workflows, reports, documents, audit e integrations.
+- [ ] Agregar packs opcionales para pandas, Polars, DuckDB, openpyxl y Docling.
+- [ ] Preparar español, accesibilidad y plantillas institucionales.
+- [ ] Agregar auditoría y permisos por organización/departamento.
+- [ ] Neutralizar despliegue para no depender de Appliku.
 
 ## Evaluación AI-friendly
 

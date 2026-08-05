@@ -24,6 +24,7 @@ Este repositorio no se clasifica como boilerplate de aplicación, sino como pack
 - Workflow de demostración.
 - La documentación oficial lo presenta como starter para comenzar, no como entorno productivo endurecido.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -73,13 +74,13 @@ Este repositorio no se clasifica como boilerplate de aplicación, sino como pack
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Reverse proxy, TLS, SSO y gestión de secretos.
-- Backups y prueba de restauración.
-- Exportación/versionado de workflows.
-- Ambientes separados.
-- Monitoreo de CPU, GPU, disco y colas.
-- Registro de modelos, embeddings y versiones.
-- Runbooks de actualización y recuperación.
+- [ ] Reverse proxy, TLS, SSO y gestión de secretos.
+- [ ] Backups y prueba de restauración.
+- [ ] Exportación/versionado de workflows.
+- [ ] Ambientes separados.
+- [ ] Monitoreo de CPU, GPU, disco y colas.
+- [ ] Registro de modelos, embeddings y versiones.
+- [ ] Runbooks de actualización y recuperación.
 
 ## Evaluación AI-friendly
 

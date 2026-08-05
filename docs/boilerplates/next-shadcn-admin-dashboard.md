@@ -20,6 +20,7 @@ La variante Next.js sigue siendo útil, pero deja de ser la elección automátic
 - Componentes para tablas, formularios, gráficas y múltiples layouts.
 - Base visual y estructural; no debe confundirse con un backend empresarial terminado.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -66,12 +67,12 @@ La variante Next.js sigue siendo útil, pero deja de ser la elección automátic
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Separar todas las pantallas mock de capacidades reales.
-- Agregar autenticación, autorización, auditoría y contratos de datos.
-- Crear paquete compartido de UI con la variante TanStack.
-- Añadir pruebas unitarias y E2E.
-- Documentar caché, revalidación, Server Actions y fronteras RSC.
-- Evitar dependencia accidental de servicios Vercel.
+- [ ] Separar todas las pantallas mock de capacidades reales.
+- [ ] Agregar autenticación, autorización, auditoría y contratos de datos.
+- [ ] Crear paquete compartido de UI con la variante TanStack.
+- [ ] Añadir pruebas unitarias y E2E.
+- [ ] Documentar caché, revalidación, Server Actions y fronteras RSC.
+- [ ] Evitar dependencia accidental de servicios Vercel.
 
 ## Evaluación AI-friendly
 

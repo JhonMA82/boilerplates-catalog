@@ -26,6 +26,7 @@ GoShip no entra como sexto boilerplate general. Se conserva como candidato espec
 - El autor indica desarrollo activo y documentación WIP.
 - Existe lógica heredada de Chérie, como amistad/perfiles, que puede eliminarse.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -77,13 +78,13 @@ GoShip no entra como sexto boilerplate general. Se conserva como candidato espec
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Piloto obligatorio con métricas.
-- Eliminar lógica Chérie y pruebas heredadas.
-- Crear documentación completa y AGENTS.md propio.
-- Agregar organizaciones, auditoría, i18n y accesibilidad.
-- Validar auth, permisos, storage y notificaciones.
-- Definir despliegue alternativo a Kamal si se requiere.
-- Benchmark frente a SpeedPy/FastAPI para el mismo caso.
+- [ ] Piloto obligatorio con métricas.
+- [ ] Eliminar lógica Chérie y pruebas heredadas.
+- [ ] Crear documentación completa y AGENTS.md propio.
+- [ ] Agregar organizaciones, auditoría, i18n y accesibilidad.
+- [ ] Validar auth, permisos, storage y notificaciones.
+- [ ] Definir despliegue alternativo a Kamal si se requiere.
+- [ ] Benchmark frente a SpeedPy/FastAPI para el mismo caso.
 
 ## Evaluación AI-friendly
 

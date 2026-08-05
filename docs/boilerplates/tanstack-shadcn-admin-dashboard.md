@@ -21,6 +21,7 @@ La variante TanStack Start pasa a ser la opción preferente para aplicaciones ad
 - SSR y funciones de servidor disponibles sin exigir replicar la arquitectura RSC de Next.js.
 - AGENTS.md con convenciones del proyecto.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -70,12 +71,12 @@ La variante TanStack Start pasa a ser la opción preferente para aplicaciones ad
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Fijar versiones concretas de TanStack Start, Router y runtime.
-- Agregar pruebas unitarias, integración y E2E.
-- Definir adapters de API, manejo de errores y autenticación.
-- Crear generadores de features y contratos de búsqueda.
-- Compartir tokens, layouts y componentes con la variante Next.
-- Documentar route tree generado y no editarlo manualmente.
+- [ ] Fijar versiones concretas de TanStack Start, Router y runtime.
+- [ ] Agregar pruebas unitarias, integración y E2E.
+- [ ] Definir adapters de API, manejo de errores y autenticación.
+- [ ] Crear generadores de features y contratos de búsqueda.
+- [ ] Compartir tokens, layouts y componentes con la variante Next.
+- [ ] Documentar route tree generado y no editarlo manualmente.
 
 ## Evaluación AI-friendly
 

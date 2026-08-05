@@ -21,6 +21,7 @@ Ignite se mantiene como base móvil porque evita reconstruir desde cero la arqui
 - Soporte y documentación para flujos modernos de React Native.
 - Base de pruebas y tooling para proyectos reales.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -68,12 +69,12 @@ Ignite se mantiene como base móvil porque evita reconstruir desde cero la arqui
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Definir preset Expo/EAS y preset nativo según requerimientos.
-- Agregar autenticación, configuración por ambientes y observabilidad.
-- Crear módulo opcional offline con cola, reintentos y resolución de conflictos.
-- Preparar diseño, errores y validaciones en español.
-- Incluir CI de build y pruebas mínimas Android/iOS.
-- Documentar almacenamiento seguro y manejo de secretos.
+- [ ] Definir preset Expo/EAS y preset nativo según requerimientos.
+- [ ] Agregar autenticación, configuración por ambientes y observabilidad.
+- [ ] Crear módulo opcional offline con cola, reintentos y resolución de conflictos.
+- [ ] Preparar diseño, errores y validaciones en español.
+- [ ] Incluir CI de build y pruebas mínimas Android/iOS.
+- [ ] Documentar almacenamiento seguro y manejo de secretos.
 
 ## Evaluación AI-friendly
 

@@ -24,6 +24,7 @@ Open SaaS se incorpora porque cubre un escenario distinto: lanzar productos SaaS
 - AGENTS.md, skills y plugin orientado a Claude Code.
 - Licencia MIT.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -75,13 +76,13 @@ Open SaaS se incorpora porque cubre un escenario distinto: lanzar productos SaaS
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Ejecutar un piloto antes de declararlo adoptado.
-- Documentar a fondo Wasp, generación y actualización.
-- Diseñar organizations, memberships, tenant isolation y auditoría.
-- Crear variante sin billing para casos internos, solo si sigue teniendo sentido usar Wasp.
-- Agregar pruebas de webhooks y pagos.
-- Verificar deploy fuera del camino feliz.
-- Preparar compatibilidad con OpenCode, no solo Claude Code.
+- [ ] Ejecutar un piloto antes de declararlo adoptado.
+- [ ] Documentar a fondo Wasp, generación y actualización.
+- [ ] Diseñar organizations, memberships, tenant isolation y auditoría.
+- [ ] Crear variante sin billing para casos internos, solo si sigue teniendo sentido usar Wasp.
+- [ ] Agregar pruebas de webhooks y pagos.
+- [ ] Verificar deploy fuera del camino feliz.
+- [ ] Preparar compatibilidad con OpenCode, no solo Claude Code.
 
 ## Evaluación AI-friendly
 

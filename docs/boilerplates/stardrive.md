@@ -23,6 +23,7 @@ Stardrive se conserva como la base para presencia web pública. Su valor no es �
 - Optimización para Cloudflare Workers, sin impedir otros hosts.
 - Bases de accesibilidad, SEO, social previews, RSS, sitemaps, headers y redirects.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -71,12 +72,12 @@ Stardrive se conserva como la base para presencia web pública. Su valor no es �
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Crear presets de marca: institucional, corporativo y campaña.
-- Eliminar automáticamente contenido y archivos exclusivos del demo.
-- Agregar plantillas legales y de privacidad adaptables a México, sin presentarlas como asesoría legal.
-- Definir accesibilidad mínima y prueba Lighthouse en CI.
-- Fijar versión del generador y dependencias.
-- Agregar un mapa de contenido y convenciones en español para OpenCode.
+- [ ] Crear presets de marca: institucional, corporativo y campaña.
+- [ ] Eliminar automáticamente contenido y archivos exclusivos del demo.
+- [ ] Agregar plantillas legales y de privacidad adaptables a México, sin presentarlas como asesoría legal.
+- [ ] Definir accesibilidad mínima y prueba Lighthouse en CI.
+- [ ] Fijar versión del generador y dependencias.
+- [ ] Agregar un mapa de contenido y convenciones en español para OpenCode.
 
 ## Evaluación AI-friendly
 

@@ -24,6 +24,7 @@ Vercel Chatbot no se adopta como producto terminado, sino como base técnica par
 - Soporte para múltiples proveedores a través de AI Gateway y posibilidad de usar proveedores directos.
 - Pruebas E2E en el repositorio.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -74,14 +75,14 @@ Vercel Chatbot no se adopta como producto terminado, sino como base técnica par
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Abstraer modelos, storage, auth y base de datos.
-- Agregar organizaciones, roles y políticas por herramienta.
-- Incluir fuentes, citas y trazabilidad.
-- Registrar tool calls, inputs, resultados y aprobaciones.
-- Implementar límites, presupuestos y observabilidad de tokens.
-- Construir datasets de evaluación y feedback.
-- Protección frente a prompt injection y exfiltración.
-- Preparar español y accesibilidad.
+- [ ] Abstraer modelos, storage, auth y base de datos.
+- [ ] Agregar organizaciones, roles y políticas por herramienta.
+- [ ] Incluir fuentes, citas y trazabilidad.
+- [ ] Registrar tool calls, inputs, resultados y aprobaciones.
+- [ ] Implementar límites, presupuestos y observabilidad de tokens.
+- [ ] Construir datasets de evaluación y feedback.
+- [ ] Protección frente a prompt injection y exfiltración.
+- [ ] Preparar español y accesibilidad.
 
 ## Evaluación AI-friendly
 

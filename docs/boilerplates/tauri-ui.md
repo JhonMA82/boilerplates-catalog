@@ -20,6 +20,7 @@ Tauri UI cubre el espacio de aplicaciones de escritorio y herramientas locales. 
 - Elección de frontend compatible con el flujo del generador.
 - Base Tauri para integrar capacidades nativas mediante Rust y plugins.
 
+> [!NOTE]
 > Esta sección resume capacidades declaradas u observables en las fuentes oficiales. No implica que cada capacidad esté lista para las políticas de producción de la consultoría.
 
 ## Casos de uso donde encaja
@@ -67,12 +68,12 @@ Tauri UI cubre el espacio de aplicaciones de escritorio y herramientas locales. 
 
 ## Curación necesaria antes de usarlo en proyectos reales
 
-- Crear presets de permisos mínimos.
-- Agregar updater, logging y diagnóstico como módulos opcionales.
-- Preparar CI de artefactos para Windows, Linux y macOS según alcance real.
-- Documentar patrón de comandos Tauri y validación de inputs.
-- Definir almacenamiento local, migraciones y respaldo.
-- Crear un ejemplo de integración segura con servicio Python local.
+- [ ] Crear presets de permisos mínimos.
+- [ ] Agregar updater, logging y diagnóstico como módulos opcionales.
+- [ ] Preparar CI de artefactos para Windows, Linux y macOS según alcance real.
+- [ ] Documentar patrón de comandos Tauri y validación de inputs.
+- [ ] Definir almacenamiento local, migraciones y respaldo.
+- [ ] Crear un ejemplo de integración segura con servicio Python local.
 
 ## Evaluación AI-friendly
 
